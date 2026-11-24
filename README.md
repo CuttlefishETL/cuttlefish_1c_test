@@ -4,7 +4,7 @@
 
 **Пример работы с LUA-скриптами для статьи на INFOSTART.RU**
 
-[![INFOSTART](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)](https://infostart.ru/1c/articles/2855198/)
+[![INFOSTART](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)](https://infostart.ru)
 
 </div>
 
