@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "servers": [
+    {
+      "id": "folder-1795516091923-745",
+      "kind": "folder",
+      "name": "1C_TEST",
+      "children": [
+        {
+          "id": "server-1792919104977-945",
+          "kind": "server",
+          "name": "1С-test",
+          "url": "127.0.0.1",
+          "port": 4031
+        }
+      ]
+    }
+  ]
+}
