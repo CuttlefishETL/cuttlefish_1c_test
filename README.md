@@ -16,10 +16,3 @@
 
 📖 **Читать статью:** [Использование внешнего LUA движка для 1С](https://infostart.ru/1c/articles/2855198/)
 
-## Быстрый старт
-
-```bash
-git clone https://github.com/CuttlefishETL/cuttlefish_ts_ui.git
-cd cuttlefish_ts_ui
-npm install
-npm run tauri dev
